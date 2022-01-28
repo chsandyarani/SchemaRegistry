@@ -1,0 +1,11 @@
+{
+	      "type": "record",
+	      "name": "Test",
+	      "fields" : [
+	      {"name": "comapny", "type": "string"},
+	      {"name": "color", "type": "string"},
+	      {"name": "price", "type": "int"}
+	      ]
+	      }
+	    
+	    
