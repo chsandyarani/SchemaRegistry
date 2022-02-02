@@ -8,6 +8,8 @@ import org.apache.kafka.clients.producer.RecordMetadata;
 import org.apache.kafka.common.serialization.StringSerializer;
 
 import io.confluent.kafka.serializers.KafkaAvroSerializer;
+
+//import io.confluent.kafka.serializers.KafkaAvroSerializer;
 //import schemaRegistry.Mobile;
 
 public class ProducerForSchema {
